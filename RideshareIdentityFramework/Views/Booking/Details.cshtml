@@ -1,0 +1,49 @@
+﻿@model RideshareIdentityFramework.Models.Booking
+
+@{
+    ViewBag.Title = "Details";
+    <link href="~/Content/display-posted-ride.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+}
+
+<h2>Booking Details</h2>
+
+<div class="jumbotron text-center">
+    <h1 class="display-3"> @ViewBag.UserName your booking is confirmed</h1>
+    <hr>
+</div>
+<div class="container">
+    <div class="card-group vgr-cards">
+        <div class="card">
+            <div class="card-img-body">
+                <img class="card-img" src="~/Images/booking-confirmation.gif" alt="Card image cap">
+            </div>
+            <div class="card-body">
+                <h4 class="card-title">These are the details of the ride you booked</h4>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <strong>@Html.DisplayNameFor(model => model.Ride.StartLocation) : </strong>
+                        @Html.DisplayFor(model => model.Ride.StartLocation)
+                    </div>
+                    <div class="col-md-6">
+                        <strong>@Html.DisplayNameFor(model => model.Ride.EndLocation) : </strong>
+                        @Html.DisplayFor(model => model.Ride.EndLocation)
+                    </div>
+                    <div class="col-md-6">
+                        <strong>@Html.DisplayNameFor(model => model.BookedTime): </strong>
+                        @Html.DisplayFor(model => model.BookedTime)
+                    </div>
+                    <div class="col-md-6">
+                        <strong>@Html.DisplayNameFor(model => model.AmountPaid): </strong>
+                        @Html.DisplayFor(model => model.AmountPaid)
+                    </div>
+                    <div class="col-md-6">
+                        <strong>@Html.DisplayNameFor(model => model.Status): </strong>
+                        @Html.DisplayFor(model => model.Status)
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

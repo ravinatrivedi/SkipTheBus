@@ -1,0 +1,120 @@
+﻿@using Microsoft.AspNet.Identity
+@using System.Security.Claims;
+@using Microsoft.AspNet.Identity.Owin;
+@using Microsoft.AspNet.Identity;
+@model RideshareIdentityFramework.Models.Ride
+
+@{
+    ViewBag.Title = "Edit";
+    var claimsIdentity = User.Identity as ClaimsIdentity;
+    var userIdClaim = claimsIdentity.Claims
+                            .FirstOrDefault(x => x.Type == ClaimTypes.NameIdentifier);
+    var userName = User.Identity.GetUserName();
+
+
+
+    <link href="~/Content/display-posted-ride.css" rel="stylesheet" />
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.RideID)
+
+    <div class="jumbotron text-center">
+        <h1 class="display-3">Thank You @Html.Display(User.Identity.GetUserName()) !</h1>
+        <p class="lead"><strong>Please check the ride you posted</strong>.</p>
+        <hr>
+    </div>
+    <div class="card-group vgr-cards">
+        <div class="card">
+            <div class="card-img-body">
+                <img class="card-img" src="~/Images/confirmed.gif" alt="Card image cap">
+            </div>
+            <div class="card-body">
+                <h4 class="card-title">You cannot make changes to the ride after this point.</h4>
+
+                <div class="row">
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.StartLocation, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.StartLocation, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.StartLocation, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.EndLocation, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.EndLocation, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.EndLocation, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.StartDate, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.StartDate, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.StartDate, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.EndDate, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.EndDate, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.EndDate, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.PickUpLocation, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.PickUpLocation, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.PickUpLocation, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.DropLocation, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.DropLocation, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.DropLocation, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.SeatRemaining, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.SeatRemaining, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.SeatRemaining, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.FarePerSeat, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.FarePerSeat, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.FarePerSeat, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Save" class="btn btn-default" />
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+}
+
+<p>
+    @Html.ActionLink("Post another Ride", "Create")  |
+    @Html.ActionLink("Delete the Ride", "Delete")
+</p>

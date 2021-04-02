@@ -1,0 +1,69 @@
+﻿@model RideshareIdentityFramework.Models.Ride
+
+@{
+    ViewBag.Title = "Details";
+    <link href="~/Content/display-posted-ride.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+}
+
+<h2>Details</h2>
+
+<div class="jumbotron text-center">
+    <h1 class="display-3"> @ViewBag.UserName you chose</h1>
+    <hr>
+</div>
+<div class="container">
+    <div class="card-group vgr-cards">
+        <div class="card">
+            <div class="card-img-body">
+                <img class="card-img" src="~/Images/confirmed.gif" alt="Card image cap">
+            </div>
+            <div class="card-body">
+                <h4 class="card-title">Please click on booking to book this ride</h4>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <strong>@Html.DisplayNameFor(model => model.StartLocation) : </strong>
+                        @Html.DisplayFor(model => model.StartLocation)
+                    </div>
+                    <div class="col-md-6">
+                        <strong>@Html.DisplayNameFor(model => model.EndLocation) : </strong>
+                        @Html.DisplayFor(model => model.EndLocation)
+                    </div>
+                    <div class="col-md-6">
+                        <strong>@Html.DisplayNameFor(model => model.StartDate): </strong>
+                        @Html.DisplayFor(model => model.StartDate)
+                    </div>
+                    <div class="col-md-6">
+                        <strong>@Html.DisplayNameFor(model => model.EndDate): </strong>
+                        @Html.DisplayFor(model => model.EndDate)
+                    </div>
+                    <div class="col-md-6">
+                        <strong>@Html.DisplayNameFor(model => model.PickUpLocation): </strong>
+                        @Html.DisplayFor(model => model.PickUpLocation)
+                    </div>
+                    <div class="col-md-6">
+                        <strong>@Html.DisplayNameFor(model => model.DropLocation): </strong>
+                        @Html.DisplayFor(model => model.DropLocation)
+                    </div>
+                    <div class="col-md-6">
+                        <strong>@Html.DisplayNameFor(model => model.SeatRemaining): </strong>
+                        @Html.DisplayFor(model => model.SeatRemaining)
+                    </div>
+                    <div class="col-md-6">
+                        <strong>@Html.DisplayNameFor(model => model.FarePerSeat): </strong>
+                        @Html.DisplayFor(model => model.FarePerSeat)
+                    </div>
+
+                </div>
+                <input type="submit" class="btn btn-info" value="Request to book this ride" onclick="location.href = '@(Url.Action("Create","Booking", new {RideID = Model.RideID, AmountPaid=Model.FarePerSeat}))'">
+            </div>
+        </div>
+    </div>
+</div>
+@*<p>
+        @Html.ActionLink("Edit the Ride", "Edit", new { id = Model.RideID }) |
+        @Html.ActionLink("Post another Ride", "Create")  |
+        @Html.ActionLink("Delete the Ride", "Delete")
+    </p>*@
+

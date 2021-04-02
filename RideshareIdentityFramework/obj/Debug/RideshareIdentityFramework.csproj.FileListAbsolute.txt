@@ -1,0 +1,360 @@
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\RideshareIdentityFramework.dll.config
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\RideshareIdentityFramework.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\RideshareIdentityFramework.pdb
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\csc.exe
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\csc.exe.config
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\csc.rsp
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\csi.exe
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\csi.exe.config
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\csi.rsp
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.AppContext.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.Console.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\vbc.exe
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\vbc.exe.config
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\vbc.rsp
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Antlr3.Runtime.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\EntityFramework.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\EntityFramework.SqlServer.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.Security.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Newtonsoft.Json.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Owin.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Web.Helpers.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Web.Mvc.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Web.Optimization.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Web.Razor.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Web.WebPages.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\WebGrease.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Web.Helpers.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Web.Mvc.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Web.Optimization.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Web.Razor.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Web.WebPages.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Newtonsoft.Json.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Antlr3.Runtime.pdb
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\EntityFramework.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\EntityFramework.SqlServer.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.Security.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\obj\Debug\RideshareIdentityFramework.csproj.CopyComplete
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\obj\Debug\RideshareIdentityFramework.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\obj\Debug\RideshareIdentityFramework.pdb
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\obj\Debug\RideshareIdentityFramework.csprojAssemblyReference.cache
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Identity.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Options.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Win32.Registry.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Buffers.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.ComponentModel.Annotations.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Memory.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Numerics.Vectors.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Security.AccessControl.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Security.Permissions.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Security.Principal.Windows.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Text.Encodings.Web.dll
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Authentication.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Identity.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Identity.Core.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Options.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Buffers.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Memory.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Numerics.Vectors.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aunsha Asaithambi\Documents\Humber - Assignments\SEM - 3\ASP.NET MVC\RideshareIdentityFramework\RideshareIdentityFramework\bin\System.Text.Encodings.Web.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\RideshareIdentityFramework.dll.config
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\RideshareIdentityFramework.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\RideshareIdentityFramework.pdb
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\csc.exe
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\csc.exe.config
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\csc.rsp
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\csi.exe
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\csi.exe.config
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\csi.rsp
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.AppContext.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.Console.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.IO.Compression.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.Security.Claims.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.ValueTuple.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\vbc.exe
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\vbc.exe.config
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\vbc.rsp
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\VBCSCompiler.exe
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Antlr3.Runtime.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\EntityFramework.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\EntityFramework.SqlServer.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Identity.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Options.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.Security.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Win32.Registry.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Newtonsoft.Json.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Owin.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Buffers.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.ComponentModel.Annotations.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Memory.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Numerics.Vectors.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Security.AccessControl.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Security.Permissions.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Security.Principal.Windows.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Text.Encodings.Web.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Web.Helpers.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Web.Mvc.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Web.Optimization.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Web.Razor.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Web.WebPages.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Web.WebPages.Razor.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\WebGrease.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Authentication.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.Identity.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Identity.Core.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Options.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Buffers.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Memory.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Numerics.Vectors.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Text.Encodings.Web.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Web.Helpers.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Web.Mvc.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Web.Optimization.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Web.Razor.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Web.WebPages.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\System.Web.WebPages.Razor.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Newtonsoft.Json.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Antlr3.Runtime.pdb
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\EntityFramework.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\EntityFramework.SqlServer.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.Security.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\obj\Debug\RideshareIdentityFramework.csprojAssemblyReference.cache
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\obj\Debug\RideshareIdentityFramework.csproj.CopyComplete
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\obj\Debug\RideshareIdentityFramework.dll
+C:\Users\Smit\OneDrive\Documents\Portfolio\projects\RidesharingApp-master\RidesharingApp-master\RideshareIdentityFramework\obj\Debug\RideshareIdentityFramework.pdb

@@ -1,0 +1,48 @@
+﻿@model IEnumerable<RideshareIdentityFramework.Models.Transaction>
+
+@{
+    ViewBag.Title = "Index";
+    <link href="~/Content/find-a-ride.css" rel="stylesheet" />
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="table-responsive">
+                <table class="table table-bordered table-hover">
+                    <caption class="text-center"><h2>Your history</h2></caption>
+                    <thead>
+                        <tr>
+                            <th>@Html.DisplayNameFor(model => model.TransactionID)</th>
+                            <th>@Html.DisplayNameFor(model => model.BookingID)</th>
+                            <th>@Html.DisplayNameFor(model => model.TransactionTime)</th>
+                            <th>@Html.DisplayNameFor(model => model.AmountEarned)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                @*@Html.HiddenFor(modelItem => item.RideID)*@
+                                <td>@Html.DisplayFor(modelItem => item.TransactionID)</td>
+                                <td>@Html.DisplayFor(modelItem => item.BookingID)</td>
+                                <td>@Html.DisplayFor(modelItem => item.TransactionTime)</td>
+                                <td>@Html.DisplayFor(modelItem => item.AmountEarned)</td>
+                            </tr>
+                        }
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="8" class="text-center">Thank you for chosing us</td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div><!--end of .table-responsive-->
+        </div>
+    </div>
+</div>

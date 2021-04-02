@@ -1,0 +1,58 @@
+﻿@model RideshareIdentityFramework.Models.Transaction
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Transaction</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Booking.ApplicationUserID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Booking.ApplicationUserID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ApplicationUserID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ApplicationUserID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TransactionTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TransactionTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AmountEarned)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AmountEarned)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AmountSpent)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AmountSpent)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TransactionID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
